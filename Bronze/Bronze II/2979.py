@@ -16,4 +16,4 @@ for i in timeArr:
     elif i == 3:
         totalPrice = totalPrice + 3*C
 
-print(totalPrice)
+print(totalPrice) 
